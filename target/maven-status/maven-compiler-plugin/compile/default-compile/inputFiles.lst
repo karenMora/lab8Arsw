@@ -1,0 +1,12 @@
+/home/karen/Escritorio/RepasoArsw/ARSW-LAB-8/springboot-auth-updated/src/main/java/com/auth0/samples/authapi/springbootauthupdated/security/WebSecurity.java
+/home/karen/Escritorio/RepasoArsw/ARSW-LAB-8/springboot-auth-updated/src/main/java/com/auth0/samples/authapi/springbootauthupdated/task/TaskRepository.java
+/home/karen/Escritorio/RepasoArsw/ARSW-LAB-8/springboot-auth-updated/src/main/java/com/auth0/samples/authapi/springbootauthupdated/security/SecurityConstants.java
+/home/karen/Escritorio/RepasoArsw/ARSW-LAB-8/springboot-auth-updated/src/main/java/com/auth0/samples/authapi/springbootauthupdated/user/ApplicationUser.java
+/home/karen/Escritorio/RepasoArsw/ARSW-LAB-8/springboot-auth-updated/src/main/java/com/auth0/samples/authapi/springbootauthupdated/task/Task.java
+/home/karen/Escritorio/RepasoArsw/ARSW-LAB-8/springboot-auth-updated/src/main/java/com/auth0/samples/authapi/springbootauthupdated/task/TaskController.java
+/home/karen/Escritorio/RepasoArsw/ARSW-LAB-8/springboot-auth-updated/src/main/java/com/auth0/samples/authapi/springbootauthupdated/user/UserDetailsServiceImpl.java
+/home/karen/Escritorio/RepasoArsw/ARSW-LAB-8/springboot-auth-updated/src/main/java/com/auth0/samples/authapi/springbootauthupdated/user/UserController.java
+/home/karen/Escritorio/RepasoArsw/ARSW-LAB-8/springboot-auth-updated/src/main/java/com/auth0/samples/authapi/springbootauthupdated/user/ApplicationUserRepository.java
+/home/karen/Escritorio/RepasoArsw/ARSW-LAB-8/springboot-auth-updated/src/main/java/com/auth0/samples/authapi/springbootauthupdated/security/JWTAuthorizationFilter.java
+/home/karen/Escritorio/RepasoArsw/ARSW-LAB-8/springboot-auth-updated/src/main/java/com/auth0/samples/authapi/springbootauthupdated/security/JWTAuthenticationFilter.java
+/home/karen/Escritorio/RepasoArsw/ARSW-LAB-8/springboot-auth-updated/src/main/java/com/auth0/samples/authapi/springbootauthupdated/SpringbootAuthUpdatedApplication.java
